@@ -1,0 +1,15 @@
+# 视频数据自动筛选与标签生成系统 - 依赖包
+# 核心依赖
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0          # YOLOv8 目标检测
+openai>=1.0.0               # GPT-4o 视觉评估
+mediapipe>=0.10.0           # 人体姿态估计
+
+# 数据库驱动（按需安装）
+# pymysql>=1.1.0            # MySQL 支持
+# psycopg2-binary>=2.9.0    # PostgreSQL 支持
+
+# 工具
+tqdm>=4.65.0                # 进度条（可选）
+Pillow>=10.0.0              # 图像处理

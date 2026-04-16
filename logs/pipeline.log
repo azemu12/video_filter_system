@@ -1,0 +1,10 @@
+2026-04-16 07:38:14,145 [INFO] src.db.sample_db: 示例数据库已创建: videos.db
+2026-04-16 07:38:14,146 [INFO] src.db.sample_db:   - 共 30 条视频记录
+2026-04-16 07:38:14,146 [INFO] src.db.sample_db:   - 包含横屏/竖屏/正脸/低分辨率等多种场景
+2026-04-16 07:38:40,915 [INFO] src.db.video_db: 连接 SQLite 数据库: /workspace/videos.db
+2026-04-16 07:38:40,916 [INFO] src.db.video_db: 数据库连接已关闭
+2026-04-16 07:39:21,663 [INFO] src.db.sample_db: 示例数据库已创建: videos.db
+2026-04-16 07:39:21,663 [INFO] src.db.sample_db:   - 共 30 条视频记录
+2026-04-16 07:39:21,663 [INFO] src.db.sample_db:   - 包含横屏/竖屏/正脸/低分辨率等多种场景
+2026-04-16 07:39:22,278 [INFO] src.db.video_db: 连接 SQLite 数据库: /workspace/video_filter_system/videos.db
+2026-04-16 07:39:22,280 [INFO] src.db.video_db: 数据库连接已关闭
